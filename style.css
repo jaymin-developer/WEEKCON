@@ -89,6 +89,7 @@ img {
 
   color: white;
   background-color: #3267e7;
+  border: 1px solid white;
   border-radius: 10px;
 
   cursor: pointer;
